@@ -1,0 +1,19 @@
+8 pin chips--
+
+Dual 2-input postive AND gate- SN74LVC2G08-EP
+https://www.ti.com/lit/ds/symlink/sn74lvc2g08-ep.pdf?ts=1636494775781&ref_url=https%253A%252F%252Fwww.google.com%252F
+
+Dual 2-input positive NOR gate- SN74LVC2G02
+https://www.ti.com/lit/ds/symlink/sn74lvc2g02.pdf?ts=1636542559578&ref_url=https%253A%252F%252Fwww.google.com%252F
+
+Dual 2-input positve NAND gate- SN74LVC2G00
+https://www.ti.com/lit/ds/symlink/sn74lvc2g00.pdf?ts=1636552019625&ref_url=https%253A%252F%252Fwww.google.com%252F
+
+SN74LVC3G34 Triple Buffer Gate (NOT gate)
+https://www.ti.com/lit/ds/symlink/sn74lvc3g34.pdf?ts=1636572113381&ref_url=https%253A%252F%252Fwww.ti.com%252Fsitesearch%252Fdocs%252Funiversalsearch.tsp%253FlangPref%253Den-US%2526searchTerm%253Dnot%2Bgate%2526nr%253D15118
+
+DUAL TWO-INPUT POSITIVE-OR GATE - SN74LVC2G32-Q1
+https://www.ti.com/lit/ds/symlink/sn74lvc2g32-q1.pdf?ts=1636661860681&ref_url=https%253A%252F%252Fwww.google.com%252F#:~:text=This%20dual%20two%2Dinput%20positive,the%20die%20as%20the%20package.
+
+Dual 2-Input Exclusive-OR Gate- SN74LVC2G86
+https://www.ti.com/lit/ds/symlink/sn74lvc2g86.pdf?ts=1636662334102&ref_url=https%253A%252F%252Fwww.google.com%252F
