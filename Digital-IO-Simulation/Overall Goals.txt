@@ -1,0 +1,29 @@
+- User interaction - can choose and place parts anywhere, connect wires anywhere
+- User interface
+- Select camera modes (static, free roam, zoom in/out)
+- Creating basic enviornment (desk)
+- Saving/managing project files
+- main menu
+- Interface for selecting parts, changing color of wires
+- Being able to spawn/delete objects
+- Make everything functional - dip switches, push buttons, LEDs
+- Making everything interact as intended
+- Adding detail to models (ex. chip #)
+	- using blender - learn how to integrate
+
+- Create various logic gates	AND, OR, XOR, NOT, NAND, NOR XNOR - potentially more  
+	- design using C++
+- Create power supply
+- Adding physics, (ex. supplying power)
+	- power loss
+- Creating functional breadboard (making interconnections b/w pins)
+- create breadboard actor, interact with other components
+- make pins more distinct
+- make wires bend
+
+- learn blueprinting of actors
+
+
+lamp tutorial:
+https://www.youtube.com/watch?v=amqrh6DGda8
+

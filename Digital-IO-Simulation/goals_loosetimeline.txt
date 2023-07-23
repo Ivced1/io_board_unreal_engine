@@ -1,0 +1,20 @@
+Phase One: prep
+-bring assets into new space	(Daniel, Acacia)
+-align parts on single level	(Mike, Stephen)
+-Breadboard		(Peter)
+
+
+Phase Two: Parts (code, blueprints, 3D design, wire can be placed anywhere)
+-Ports (I/O)			
+-Dip Switches			
+-Buttons
+-LEDs
+-Voltage/ground ports
+
+-Logic gates		
+-Resistors 
+
+Phase Three: Interaction
+-Adding Physics
+-Current flows through correctly
+-Gives proper output
